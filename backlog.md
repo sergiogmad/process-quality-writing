@@ -1,5 +1,3 @@
--try submissions
-
 -handle features with low-frequency ranges of values
 
 -handle anomalies: boxplot...
