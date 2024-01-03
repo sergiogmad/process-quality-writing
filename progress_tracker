@@ -2,3 +2,6 @@
 - File for Exploratory Data Analysis (EDA) that includes keystroke measures obtained from the feed.
 - Improved EDA, organized project and added Feature Engineering
 - Added Baselines with Random Forest and XGB Classifiers
+- Decent submissions with Baselines
+- Reduced number of features significantly
+- Ran unsuccessful experiments with KMeans and PCA
