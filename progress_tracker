@@ -5,3 +5,4 @@
 - Decent submissions with Baselines
 - Reduced number of features significantly
 - Ran unsuccessful experiments with KMeans and PCA
+- Ran more unsuccessful experiments, incl imbalance corrections
