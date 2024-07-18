@@ -1,5 +1,5 @@
 - File for Keystroke measures
-- File for Exploratory Data Analysis (EDA) that includes keystroke measures obtained from the feed.
+- File for Exploratory Data Analysis (EDA) that includes keystroke measures obtained from the feed, from the file previously mentioned.
 - Improved EDA, organized project and added Feature Engineering
 - Added Baselines with Random Forest and XGB Classifiers
 - Decent submissions with Baselines
